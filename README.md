@@ -1,0 +1,1 @@
+# Probabilistic-model-for-landslide-risk-prediction
